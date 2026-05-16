@@ -5,3 +5,13 @@
 @@||mqtt.c10r.facebook.com^
 @@||portal.fb.com^
 @@||star.c10r.facebook.com^
+@@||stun.fbsbx.com^
+@@||edge-chat.facebook.com^
+@@||star.facebook.com^
+@@||video.facebook.com^
+@@||edge-star-mini.facebook.com^
+@@||edge-star-mini-shv.facebook.com^
+@@||fbsbx.com^
+@@||fbcdn.net^
+@@||static.xx.fbcdn.net^
+@@||scontent.xx.fbcdn.net^
