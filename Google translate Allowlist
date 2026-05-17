@@ -1,0 +1,7 @@
+# Google translate Allowlist
+@@||translate.google.com^
+@@||translate.googleapis.com^
+@@||translate-pa.googleapis.com^
+@@||www.gstatic.com^
+@@||fonts.gstatic.com^
+@@||fonts.googleapis.com^
