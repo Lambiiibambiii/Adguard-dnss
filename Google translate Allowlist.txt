@@ -5,3 +5,5 @@
 @@||www.gstatic.com^
 @@||fonts.gstatic.com^
 @@||fonts.googleapis.com^
+
+@@||protonvpn.com^
