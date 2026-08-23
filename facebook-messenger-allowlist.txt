@@ -15,3 +15,6 @@
 @@||fbcdn.net^
 @@||static.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
+
+# Instagram 
+@@||instagram.com
