@@ -15,7 +15,12 @@
 @@||fbcdn.net^
 @@||static.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
-@@||web.facebook.com
+@@||web.facebook.com^
+@@||rupload.facebook.com^
+@@||web-fallback.facebook.com^
+@@||gateway.facebook.com^
+
+
 
 # Instagram 
 @@||instagram.com
