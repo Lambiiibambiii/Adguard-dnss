@@ -19,7 +19,7 @@
 @@||rupload.facebook.com^
 @@||web-fallback.facebook.com^
 @@||gateway.facebook.com^
-@@||wmessenger.com^
+@@||messenger.com^
 
 
 # Instagram 
